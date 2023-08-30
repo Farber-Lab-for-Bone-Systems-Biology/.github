@@ -11,7 +11,7 @@ Welcome to the Farber Lab GitHub repository!
 
 We are a dedicated team of geneticists, bioinformaticians, and orthopedic researchers with a fervent passion for understanding the intricate biological processes governing bone strength. Our mission is to unravel the genetic underpinnings that contribute to individual variability in bone health, with a primary emphasis on osteoporosis.
 
-### 🦴 **Our Focus**:
+### 🦴 **Our Focus**
 Osteoporosis is a prevalent bone disorder that affects millions worldwide. Our investigations aim to elucidate the systemic factors contributing to its onset and progression, which could pave the way for novel therapeutic interventions. Leveraging the latest high-throughput technologies, we analyze vast genomic, transcriptomic, proteomics, and cytometry datasets to uncover molecular variations associated with differential bone density and strength.
   
 
