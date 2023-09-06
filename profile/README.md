@@ -1,5 +1,3 @@
-# Lab for Bone Systems Biology
-
 Welcome to the Farber Lab GitHub repository! 
 
 * Principal Investigator: **Dr. Charles R. Farber** (crf2s@virginia.edu)
